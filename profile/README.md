@@ -10,6 +10,7 @@ Public open-source home of HUT OS — a minimal, educational Linux-based operati
 |------------|---------|
 | [**hut-os**](https://github.com/hut-os/hut-os) | Main distribution: rootfs, init, build system, docs |
 | [**linux-config**](https://github.com/hut-os/linux-config) | Kernel defconfig and build instructions for upstream Linux |
+| [**docs**](https://github.com/hut-os/docs) | Official Markdown documentation |
 
 ## About
 
